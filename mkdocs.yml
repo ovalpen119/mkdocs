@@ -1,45 +1,7 @@
-site_name: Olga mkdocks
-
+site_name: Olga Valle 
 nav:
     - Principal: index.md
-    - Practica 3.1: practica1.1.md
-    - Practica 4.5: practica5.1.md
-
-
-theme:
-  name: material  
-
-  palette:
-    # Modo claro
-    - scheme: default
-      primary: teal
-      accent: black
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-
-    # Modo oscuro
-    - scheme: slate
-      primary: teal
-      accent: black
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
-
-  features:
-    - header.autohide
-    - navigation.footer
-
-extra:
-  language: eu
-  social:
-    - icon: fontawesome/brands/github 
-      link: https://github.com/ovalpen119
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/ovalpen119
-
-
-plugins:
-  - offline
-
-copyright: Copyright - 2025 Olga Valle
+    - Acerca de: about.md
+    - Practica 1.1: practica1-1.md
+    - Practica 5.1: practica5-1.md
+theme: material
