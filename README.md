@@ -12,3 +12,6 @@ Una vez creado el archivo mkdocs.yml podremos editarlo para ir configurando nues
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+
+https://ovalpen119.github.io/mkdocs/
+![image](https://github.com/user-attachments/assets/f7d3c37a-94ff-4238-aa7e-2eed87fa9264)
