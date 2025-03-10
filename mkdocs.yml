@@ -1,7 +1,0 @@
-site_name: Olga Valle 
-nav:
-    - Principal: index.md
-    - Acerca de: about.md
-    - Practica 1.1: practica1.1.md
-    
-theme: material
